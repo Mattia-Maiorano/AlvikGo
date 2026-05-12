@@ -1,0 +1,5 @@
+# Development Tools (for your PC)
+mpremote>=1.20.0
+# Device Libraries
+arduino-alvik
+micropython-uasyncio
